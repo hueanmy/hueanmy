@@ -20,9 +20,9 @@
 
 ## What I'm building
 
-I work at **[Creative Force](https://creativeforce.io)** as a Development Team Lead, shipping product across **mobile, desktop (Electron), web frontend, and backend** — with a recent focus on AI-native developer tooling.
+I work at **[Creative Force](https://creativeforce.io)** as a Development Team Lead, shipping product across **mobile, desktop (Electron), and web frontend** — with a recent focus on **AI-native developer tooling** and **AI-driven QA automation**.
 
-Most of my open-source work sits at the intersection of **Claude**, **developer productivity**, and **workflow automation**, but day-to-day I move between mobile features, Electron UX, React frontends, Node services, and AI agent design depending on what the team needs to ship.
+Most of my open-source work sits at the intersection of **Claude**, **developer productivity**, **workflow automation**, and **AI QA automation**, but day-to-day I move between mobile features, Electron UX, React frontends, and AI agent design depending on what the team needs to ship.
 
 ---
 
@@ -97,7 +97,7 @@ plan → design → test-plan → implement → review → execute-test → rele
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-**Backend & Workflow**
+**Tooling & Workflow**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
