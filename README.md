@@ -49,7 +49,7 @@ plan → design → test-plan → implement → review → execute-test → rele
 | `doc-sync` | Sonnet 4.6 | GitHub · core-business |
 
 - 🧩 **Skills-based architecture** — each agent is backed by an editable `.md` skill file at `./aidlc/skills/`
-- 📦 Published on [**Open VSX Marketplace**](https://open-vsx.org/extension/hueanmy/aidlc) — `1,300+ installs`
+- 📦 Published on [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=hueanmy.aidlc) and [**Open VSX**](https://open-vsx.org/extension/hueanmy/aidlc) — `2,300+ installs`
 - 🛠️ Used internally at Creative Force, adopted by external teams
 - 🔓 100% open source on [GitHub](https://github.com/hueanmy/aidlc-extension)
 
@@ -59,7 +59,7 @@ plan → design → test-plan → implement → review → execute-test → rele
 
 | Project | What it does |
 |---|---|
-| [**aidlc**](https://github.com/hueanmy/aidlc-extension) | AI-driven SDLC in VS Code — slash commands for epic, PRD, tech design, review & release via Jira + Claude Code · `1,300+ installs` |
+| [**aidlc**](https://github.com/hueanmy/aidlc-extension) | AI-driven SDLC in VS Code — 9-agent pipeline for plan, design, implement, review & release via Jira + Claude Code · `2,300+ installs` |
 | [**claude-roadmap**](https://github.com/hueanmy/claude-roadmap) | Hands-on 7-phase roadmap from Claude API basics to MCP & production agents |
 | [**ai-shorts-generator**](https://github.com/hueanmy/ai-shorts-generator) | Data-driven tech video generator with ElevenLabs voice-over |
 | [**tech-radar**](https://github.com/hueanmy/tech-radar) | Personal tech radar — tools, languages & techniques I use or evaluate |
