@@ -4,9 +4,9 @@
 
 # Meii `@hueanmy`
 
-**Development Team Lead · AI-native tooling · Open Source**
+**Development Team Lead · Full-stack engineer · Open Source**
 
-*Building the tools that make developers faster — with Claude at the core.*
+*Building tools that make developers faster — from mobile to cloud, with Claude at the core.*
 
 [![Website](https://img.shields.io/badge/hueanmy.github.io-000000?style=flat&logo=github&logoColor=white)](https://hueanmy.github.io)
 [![LinkedIn](https://img.shields.io/badge/mailethi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mailethi)
@@ -20,9 +20,21 @@
 
 ## What I'm building
 
-I work at **[Creative Force](https://creativeforce.io)** as a Development Team Lead, and I spend a lot of time thinking about how AI can make the software delivery lifecycle faster and less painful.
+I work at **[Creative Force](https://creativeforce.io)** as a Development Team Lead, shipping product across **mobile, desktop (Electron), web frontend, and backend** — with a recent focus on AI-native developer tooling.
 
-Most of my open-source work sits at the intersection of **Claude**, **developer tooling**, and **workflow automation**.
+Most of my open-source work sits at the intersection of **Claude**, **developer productivity**, and **workflow automation**, but day-to-day I move between mobile features, Electron UX, React frontends, Node services, and AI agent design depending on what the team needs to ship.
+
+---
+
+## ⭐ Featured — AIDLC
+
+[**AIDLC**](https://github.com/hueanmy/aidlc-extension) — AI-driven SDLC for VS Code. I'm the creator and sole maintainer.
+
+It turns the full software delivery lifecycle into slash commands — `/epic`, `/prd`, `/tech-design`, `/review`, `/release` — driven by Jira epic keys and integrated with Claude Code, Figma, and Confluence. Goes from a Jira ticket to a reviewed PR without leaving the editor.
+
+- 📦 Published on [**Open VSX Marketplace**](https://open-vsx.org/extension/hueanmy/aidlc) — `1,300+ installs`
+- 🛠️ Used internally at Creative Force, adopted by external teams
+- 🔓 100% open source on [GitHub](https://github.com/hueanmy/aidlc-extension)
 
 ---
 
@@ -40,22 +52,39 @@ Most of my open-source work sits at the intersection of **Claude**, **developer 
 
 ## Learning resources
 
-→ **[Claude Dev Roadmap](https://hueanmy.github.io/claude-roadmap.html)** — từ zero đến production với Claude  
-→ **[Claude Code Hooks](https://hueanmy.github.io/courses/claude-code-hooks/)** — automate workflows at lifecycle checkpoints  
-→ **[Prompt Caching](https://hueanmy.github.io/courses/prompt-caching/)** — 90% token savings, 85% latency reduction  
-→ **[Prompt Eval 101](https://hueanmy.github.io/courses/prompt-eval-demo/)** — evaluate AI prompts in 30 seconds  
+→ **[Claude Dev Roadmap](https://hueanmy.github.io/claude-roadmap.html)** — từ zero đến production với Claude
+→ **[Claude Code Hooks](https://hueanmy.github.io/courses/claude-code-hooks/)** — automate workflows at lifecycle checkpoints
+→ **[Prompt Caching](https://hueanmy.github.io/courses/prompt-caching/)** — 90% token savings, 85% latency reduction
+→ **[Prompt Eval 101](https://hueanmy.github.io/courses/prompt-eval-demo/)** — evaluate AI prompts in 30 seconds
 
 ---
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**AI & Tooling**
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**Frontend & Desktop**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Mobile**
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+**Backend & Workflow**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
