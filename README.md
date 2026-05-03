@@ -50,6 +50,16 @@ A **configurable multi-agent system** for the software delivery lifecycle. Each 
 | [**tech-radar**](https://github.com/hueanmy/tech-radar) | Personal tech radar — tools, languages & techniques I use or evaluate |
 | [**claude-token-monitor**](https://github.com/hueanmy/claude-token-monitor) | Real-time token burn rate & cost monitor for Claude Code sessions |
 
+→ ...and more at [**all my repos**](https://github.com/hueanmy?tab=repositories).
+
+### Contributions to other projects
+
+I also send PRs to other OSS repos when something I use needs a fix or extension. A few examples:
+
+- [`stevewithington/awesome-copilot#1`](https://github.com/stevewithington/awesome-copilot/pull/1)
+
+→ Full activity at [github.com/hueanmy](https://github.com/hueanmy?tab=overview).
+
 ---
 
 ## Learning resources
