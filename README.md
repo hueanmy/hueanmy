@@ -103,18 +103,6 @@ I also send PRs to other OSS repos when something I use needs a fix or extension
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hueanmy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/hueanmy)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hueanmy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/hueanmy)
-
-</div>
-
----
-
 <div align="center">
 
 *Based in Hà Nội 🇻🇳 · Always shipping*
