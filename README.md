@@ -30,8 +30,25 @@ Most of my open-source work sits at the intersection of **Claude**, **developer 
 
 [**AIDLC**](https://github.com/hueanmy/aidlc-extension) — AI-driven SDLC for VS Code. I'm the creator and sole maintainer.
 
-It turns the full software delivery lifecycle into slash commands — `/epic`, `/prd`, `/tech-design`, `/review`, `/release` — driven by Jira epic keys and integrated with Claude Code, Figma, and Confluence. Goes from a Jira ticket to a reviewed PR without leaving the editor.
+**9 specialized agents** orchestrate the full software delivery lifecycle. Each runs as its own Claude agent with a dedicated model and tool surface — go from a Jira ticket to a reviewed PR and a deployed release without leaving the editor.
 
+```
+plan → design → test-plan → implement → review → execute-test → release → monitor → doc-sync
+```
+
+| Agent | Model | Tools |
+|---|---|---|
+| `plan` | Opus 4.7 | Jira · Figma · core-business |
+| `design` | Opus 4.7 | core-business · files |
+| `test-plan` | Sonnet 4.6 | — |
+| `implement` | Sonnet 4.6 | GitHub · files |
+| `review` | Opus 4.7 | GitHub |
+| `execute-test` | Sonnet 4.6 | — |
+| `release` | Sonnet 4.6 | GitHub |
+| `monitor` | Sonnet 4.6 | web · Slack |
+| `doc-sync` | Sonnet 4.6 | GitHub · core-business |
+
+- 🧩 **Skills-based architecture** — each agent is backed by an editable `.md` skill file at `./aidlc/skills/`
 - 📦 Published on [**Open VSX Marketplace**](https://open-vsx.org/extension/hueanmy/aidlc) — `1,300+ installs`
 - 🛠️ Used internally at Creative Force, adopted by external teams
 - 🔓 100% open source on [GitHub](https://github.com/hueanmy/aidlc-extension)
