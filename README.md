@@ -22,7 +22,7 @@
 
 I work at **[Creative Force](https://creativeforce.io)** as a Development Team Lead, shipping product across **mobile, desktop (Electron), and web frontend** — with a recent focus on **AI-native developer tooling** and **AI-driven QA automation**.
 
-Most of my open-source work sits at the intersection of **Claude**, **developer productivity**, **workflow automation**, and **AI QA automation**, but day-to-day I move between mobile features, Electron UX, React frontends, and AI agent design depending on what the team needs to ship.
+Most of my open-source work sits at the intersection of **Claude**, **developer productivity**, **workflow automation**, and **AI QA automation**, but day-to-day I move between mobile features, Electron UX, Angular & Vue frontends, and AI agent design depending on what the team needs to ship.
 
 ---
 
@@ -71,14 +71,16 @@ A **configurable multi-agent system** for the software delivery lifecycle. Each 
 
 **Frontend & Desktop**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Mobile**
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
