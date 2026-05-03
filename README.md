@@ -30,25 +30,10 @@ Most of my open-source work sits at the intersection of **Claude**, **developer 
 
 [**AIDLC**](https://github.com/hueanmy/aidlc-extension) — AI-driven SDLC for VS Code. I'm the creator and sole maintainer.
 
-**9 specialized agents** orchestrate the full software delivery lifecycle. Each runs as its own Claude agent with a dedicated model and tool surface — go from a Jira ticket to a reviewed PR and a deployed release without leaving the editor.
+A **configurable multi-agent system** for the software delivery lifecycle. Each stage runs as its own Claude agent with its own model (Opus or Sonnet) and tool surface — Jira, Figma, GitHub, files, web, Slack, custom MCP servers. You define which agents run, in what order, with which tools — go from a Jira ticket to a reviewed PR and a deployed release without leaving the editor.
 
-```
-plan → design → test-plan → implement → review → execute-test → release → monitor → doc-sync
-```
-
-| Agent | Model | Tools |
-|---|---|---|
-| `plan` | Opus 4.7 | Jira · Figma · core-business |
-| `design` | Opus 4.7 | core-business · files |
-| `test-plan` | Sonnet 4.6 | — |
-| `implement` | Sonnet 4.6 | GitHub · files |
-| `review` | Opus 4.7 | GitHub |
-| `execute-test` | Sonnet 4.6 | — |
-| `release` | Sonnet 4.6 | GitHub |
-| `monitor` | Sonnet 4.6 | web · Slack |
-| `doc-sync` | Sonnet 4.6 | GitHub · core-business |
-
-- 🧩 **Skills-based architecture** — each agent is backed by an editable `.md` skill file at `./aidlc/skills/`
+- 🧩 **Skills-based architecture** — every agent is backed by an editable `.md` skill file at `./aidlc/skills/`. Add a new agent by writing a new skill.
+- 🔧 **Dynamic pipeline** — the SDLC graph is configurable per project; not a fixed flow.
 - 📦 Published on [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=hueanmy.aidlc) and [**Open VSX**](https://open-vsx.org/extension/hueanmy/aidlc) — `2,300+ installs`
 - 🛠️ Used internally at Creative Force, adopted by external teams
 - 🔓 100% open source on [GitHub](https://github.com/hueanmy/aidlc-extension)
@@ -59,7 +44,7 @@ plan → design → test-plan → implement → review → execute-test → rele
 
 | Project | What it does |
 |---|---|
-| [**aidlc**](https://github.com/hueanmy/aidlc-extension) | AI-driven SDLC in VS Code — 9-agent pipeline for plan, design, implement, review & release via Jira + Claude Code · `2,300+ installs` |
+| [**aidlc**](https://github.com/hueanmy/aidlc-extension) | AI-driven SDLC in VS Code — configurable multi-agent pipeline (Jira → reviewed PR → release) via Claude Code · `2,300+ installs` |
 | [**claude-roadmap**](https://github.com/hueanmy/claude-roadmap) | Hands-on 7-phase roadmap from Claude API basics to MCP & production agents |
 | [**ai-shorts-generator**](https://github.com/hueanmy/ai-shorts-generator) | Data-driven tech video generator with ElevenLabs voice-over |
 | [**tech-radar**](https://github.com/hueanmy/tech-radar) | Personal tech radar — tools, languages & techniques I use or evaluate |
