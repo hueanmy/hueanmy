@@ -9,7 +9,6 @@
 *Building tools that make developers faster — from mobile to cloud, with Claude at the core.*
 
 [![Website](https://img.shields.io/badge/hueanmy.github.io-000000?style=flat&logo=github&logoColor=white)](https://hueanmy.github.io)
-[![LinkedIn](https://img.shields.io/badge/mailethi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mailethi)
 [![YouTube](https://img.shields.io/badge/@studyingwithmeii-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@studyingwithmeii)
 [![TikTok](https://img.shields.io/badge/@studyingwithmeii-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@studyingwithmeii)
 [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/hueanmy)
