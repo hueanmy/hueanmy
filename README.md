@@ -20,9 +20,9 @@
 
 ## What I'm building
 
-I work at **[Creative Force](https://creativeforce.io)** as a Development Team Lead, shipping product across **mobile, desktop (Electron), and web frontend** — with a recent focus on **AI-native developer tooling** and **AI-driven QA automation**.
+I ship product across **mobile, desktop (Electron), and web frontend** — with a recent focus on **AI-native developer tooling** and **AI-driven QA automation**.
 
-Most of my open-source work sits at the intersection of **Claude**, **developer productivity**, **workflow automation**, and **AI QA automation**, but day-to-day I move between mobile features, Electron UX, Angular & Vue frontends, and AI agent design depending on what the team needs to ship.
+Most of my open-source work sits at the intersection of **Claude**, **developer productivity**, **workflow automation**, and **AI QA automation**, but day-to-day I move between mobile features, Electron UX, Angular & Vue frontends, and AI agent design depending on what's needed to ship.
 
 ---
 
@@ -35,7 +35,7 @@ A **configurable multi-agent system** for the software delivery lifecycle. Each 
 - 🧩 **Skills-based architecture** — every agent is backed by an editable `.md` skill file at `./aidlc/skills/`. Add a new agent by writing a new skill.
 - 🔧 **Dynamic pipeline** — the SDLC graph is configurable per project; not a fixed flow.
 - 📦 Published on [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=hueanmy.aidlc) and [**Open VSX**](https://open-vsx.org/extension/hueanmy/aidlc) — `2,300+ installs`
-- 🛠️ Used internally at Creative Force, adopted by external teams
+- 🛠️ Adopted by external teams
 - 🔓 100% open source on [GitHub](https://github.com/hueanmy/aidlc-extension)
 
 ---
