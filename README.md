@@ -25,7 +25,7 @@ Most of my open-source work sits at the intersection of **Claude**, **developer 
 
 ## Projects & Resources
 
-I build and maintain the **[AIDLC Suite](https://aidlc-io.github.io)** — an ecosystem of AI-driven developer tools (VS Code extension, CLI, terminal, test agent) with 8,000+ installs. I also ship open-source utilities for Claude Code workflows and write free guides on building with Claude.
+I build and maintain the **[AIDLC Suite](https://hueanmy.github.io/)** — an ecosystem of AI-driven developer tools (VS Code extension, CLI, terminal, test agent) with 8,000+ installs. I also ship open-source utilities for Claude Code workflows and write free guides on building with Claude.
 
 → Full details at **[hueanmy.github.io](https://hueanmy.github.io)**
 
