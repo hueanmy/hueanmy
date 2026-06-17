@@ -31,38 +31,33 @@ I build and maintain the **[AIDLC Suite](https://aidlc-io.github.io)** — an ec
 
 ---
 
+<table><tr><td valign="top" width="50%">
+
 ## Stack
 
-**AI & Tooling**
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-**Frontend & Desktop**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-
-**Mobile**
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-
-**Systems**
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-
-**Tooling & Workflow**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-<div align="center">
+</td><td valign="top" width="50%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hueanmy&show_icons=true&hide_border=true&count_private=true&theme=default&hide=issues)
+
+</td></tr></table>
+
+<div align="center">
 
 *Based in Hà Nội 🇻🇳 · Always shipping*
 
