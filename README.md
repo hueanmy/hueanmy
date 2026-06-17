@@ -33,7 +33,7 @@ An ecosystem of tools I created and maintain for AI-driven software delivery. Ea
 |---|---|
 | [**AIDLC for VS Code**](https://marketplace.visualstudio.com/items?itemName=hueanmy.aidlc) | Builder UI for AI pipelines — edit `workspace.yaml` visually, track runs in the sidebar, live token & agent observability · `2,300+ installs` |
 | [**AIDLC CLI**](https://www.npmjs.com/package/aidlc) | Standalone engine, no VS Code required — scaffold workspaces, apply presets, drive runs end-to-end via Claude from your shell · `npm install -g aidlc` |
-| [**AIDLC Term**](https://github.com/hueanmy/aidlc-term) | GPU-accelerated terminal for agent work — file explorer, agent manager for every Claude Code session, live token-usage dashboard · Rust + WGPU |
+| [**AIDLC Term**](https://aidlc-io.github.io/#products) | GPU-accelerated terminal for agent work — file explorer, agent manager for every Claude Code session, live token-usage dashboard · Rust + WGPU |
 | [**AIDLC TestAgent**](https://www.npmjs.com/package/aidlc-testagent) | AI test agent for web, desktop, API & mobile — point it at a target, approve the plan, get a passing test suite · `npm install -g aidlc-testagent` |
 
 Skills-based architecture: every agent stage is backed by an editable `.md` skill file. The pipeline graph is fully configurable per project — not a fixed flow.
