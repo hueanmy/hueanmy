@@ -25,17 +25,20 @@ Most of my open-source work sits at the intersection of **Claude**, **developer 
 
 ---
 
-## ⭐ Featured — AIDLC
+## ⭐ Featured — AIDLC Suite
 
-[**AIDLC**](https://github.com/hueanmy/aidlc-extension) — AI-driven SDLC for VS Code. I'm the creator and sole maintainer.
+The **AIDLC Suite** is an ecosystem of tools I created and maintain for AI-driven software delivery. Each piece covers a different layer of the SDLC:
 
-A **configurable multi-agent system** for the software delivery lifecycle. Each stage runs as its own Claude agent with its own model (Opus or Sonnet) and tool surface — Jira, Figma, GitHub, files, web, Slack, custom MCP servers. You define which agents run, in what order, with which tools — go from a Jira ticket to a reviewed PR and a deployed release without leaving the editor.
+| Tool | What it does |
+|---|---|
+| [**aidlc-extension**](https://github.com/hueanmy/aidlc-extension) | VS Code extension — configurable multi-agent pipeline from Jira ticket to reviewed PR · `2,300+ installs` |
+| [**aidlc-cli**](https://github.com/hueanmy/aidlc-cli) | CLI companion — run AIDLC pipelines from the terminal, CI, or scripts |
+| [**aidlc-term**](https://github.com/hueanmy/aidlc-term) | Terminal UI for monitoring live agent runs and pipeline state |
+| [**qa-playwright-agent**](https://github.com/hueanmy/qa-playwright-agent) | AI-driven Playwright test planning, generation, and self-healing — Claude Code plugin |
 
-- 🧩 **Skills-based architecture** — every agent is backed by an editable `.md` skill file at `./aidlc/skills/`. Add a new agent by writing a new skill.
-- 🔧 **Dynamic pipeline** — the SDLC graph is configurable per project; not a fixed flow.
-- 📦 Published on [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=hueanmy.aidlc) and [**Open VSX**](https://open-vsx.org/extension/hueanmy/aidlc) — `2,300+ installs`
-- 🛠️ Adopted by external teams
-- 🔓 100% open source on [GitHub](https://github.com/hueanmy/aidlc-extension)
+The architecture is **skills-based**: every agent stage is backed by an editable `.md` skill file. Add or swap agents by writing a new skill. The pipeline graph is fully configurable per project — not a fixed flow.
+
+Published on [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=hueanmy.aidlc) and [**Open VSX**](https://open-vsx.org/extension/hueanmy/aidlc) · Adopted by external teams · 100% open source.
 
 ---
 
@@ -43,30 +46,30 @@ A **configurable multi-agent system** for the software delivery lifecycle. Each 
 
 | Project | What it does |
 |---|---|
-| [**aidlc**](https://github.com/hueanmy/aidlc-extension) | AI-driven SDLC in VS Code — configurable multi-agent pipeline (Jira → reviewed PR → release) via Claude Code · `2,300+ installs` |
-| [**claude-roadmap**](https://github.com/hueanmy/claude-roadmap) | Hands-on 7-phase roadmap from Claude API basics to MCP & production agents |
-| [**ai-shorts-generator**](https://github.com/hueanmy/ai-shorts-generator) | Data-driven tech video generator with ElevenLabs voice-over |
+| [**aidlc-extension**](https://github.com/hueanmy/aidlc-extension) | AI-driven SDLC in VS Code — configurable multi-agent pipeline via Claude · `2,300+ installs` |
+| [**claude-token-monitor**](https://github.com/hueanmy/claude-token-monitor) | Real-time token burn rate, session limits & cost monitor for Claude Code sessions |
+| [**zeroctx**](https://github.com/hueanmy/zeroctx) | Trim context to near-zero — strip noise from prompts so Claude only sees what matters |
+| [**ast-graph**](https://github.com/hueanmy/ast-graph) | AST-based code graph that lets agents navigate code by symbol instead of dumping whole files |
+| [**claude-roadmap**](https://github.com/hueanmy/claude-roadmap) | Hands-on 7-phase roadmap from Claude API basics to MCP & production agents · `16 stars` |
+| [**ai-shorts-generator**](https://github.com/hueanmy/ai-shorts-generator) | Data-driven tech video generator with ElevenLabs voice-over · `25 stars` |
 | [**tech-radar**](https://github.com/hueanmy/tech-radar) | Personal tech radar — tools, languages & techniques I use or evaluate |
-| [**claude-token-monitor**](https://github.com/hueanmy/claude-token-monitor) | Real-time token burn rate & cost monitor for Claude Code sessions |
 
 → ...and more at [**all my repos**](https://github.com/hueanmy?tab=repositories).
 
-### Contributions to other projects
-
-I also send PRs to other OSS repos when something I use needs a fix or extension. A few examples:
-
-- [`stevewithington/awesome-copilot#1`](https://github.com/stevewithington/awesome-copilot/pull/1)
-
-→ Full activity at [github.com/hueanmy](https://github.com/hueanmy?tab=overview).
-
 ---
 
-## Learning resources
+## Free Resources
 
-→ **[Claude Dev Roadmap](https://hueanmy.github.io/claude-roadmap.html)** — từ zero đến production với Claude
-→ **[Claude Code Hooks](https://hueanmy.github.io/courses/claude-code-hooks/)** — automate workflows at lifecycle checkpoints
-→ **[Prompt Caching](https://hueanmy.github.io/courses/prompt-caching/)** — 90% token savings, 85% latency reduction
-→ **[Prompt Eval 101](https://hueanmy.github.io/courses/prompt-eval-demo/)** — evaluate AI prompts in 30 seconds
+Everything below is free — written and maintained by me to share what I've learned building with Claude.
+
+| Resource | What you'll learn |
+|---|---|
+| [**Claude Dev Roadmap**](https://hueanmy.github.io/claude-roadmap.html) | Zero to production with Claude — 7 phases, working examples |
+| [**Claude Code Hooks**](https://hueanmy.github.io/courses/claude-code-hooks/) | Automate workflows at Claude Code lifecycle checkpoints |
+| [**Prompt Caching**](https://hueanmy.github.io/courses/prompt-caching/) | 90% token savings and 85% latency reduction in practice |
+| [**Prompt Eval 101**](https://hueanmy.github.io/courses/prompt-eval-demo/) | Evaluate AI prompts in 30 seconds |
+
+More guides and tutorials at [**hueanmy.github.io**](https://hueanmy.github.io).
 
 ---
 
@@ -78,7 +81,6 @@ I also send PRs to other OSS repos when something I use needs a fix or extension
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 
 **Frontend & Desktop**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -95,10 +97,6 @@ I also send PRs to other OSS repos when something I use needs a fix or extension
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=050038)
-
-**Creative**
-![Capture One](https://img.shields.io/badge/Capture_One-191919?style=flat&logoColor=white)
 
 ---
 
