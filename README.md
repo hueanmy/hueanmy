@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://hueanmy.github.io/avatar.png" width="120" style="border-radius:50%" />
-
 # Meii `@hueanmy`
 
 **Software Engineer · Open Source**
