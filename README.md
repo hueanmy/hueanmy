@@ -102,6 +102,8 @@ More at [**hueanmy.github.io**](https://hueanmy.github.io).
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hueanmy&show_icons=true&hide_border=true&count_private=true&theme=default&hide=issues)
+
 *Based in Hà Nội 🇻🇳 · Always shipping*
 
 </div>
