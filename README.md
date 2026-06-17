@@ -27,18 +27,16 @@ Most of my open-source work sits at the intersection of **Claude**, **developer 
 
 ## ⭐ Featured — AIDLC Suite
 
-The **AIDLC Suite** is an ecosystem of tools I created and maintain for AI-driven software delivery. Each piece covers a different layer of the SDLC:
+An ecosystem of tools I created and maintain for AI-driven software delivery. Each piece covers a different layer of the stack.
 
 | Tool | What it does |
 |---|---|
-| [**aidlc-extension**](https://github.com/hueanmy/aidlc-extension) | VS Code extension — configurable multi-agent pipeline from Jira ticket to reviewed PR · `2,300+ installs` |
-| [**aidlc-cli**](https://github.com/hueanmy/aidlc-cli) | CLI companion — run AIDLC pipelines from the terminal, CI, or scripts |
-| [**aidlc-term**](https://github.com/hueanmy/aidlc-term) | Terminal UI for monitoring live agent runs and pipeline state |
-| [**qa-playwright-agent**](https://github.com/hueanmy/qa-playwright-agent) | AI-driven Playwright test planning, generation, and self-healing — Claude Code plugin |
+| [**AIDLC for VS Code**](https://marketplace.visualstudio.com/items?itemName=hueanmy.aidlc) | Builder UI for AI pipelines — edit `workspace.yaml` visually, track runs in the sidebar, live token & agent observability · `2,300+ installs` |
+| [**AIDLC CLI**](https://www.npmjs.com/package/aidlc) | Standalone engine, no VS Code required — scaffold workspaces, apply presets, drive runs end-to-end via Claude from your shell · `npm install -g aidlc` |
+| [**AIDLC Term**](https://github.com/hueanmy/aidlc-term) | GPU-accelerated terminal for agent work — file explorer, agent manager for every Claude Code session, live token-usage dashboard · Rust + WGPU |
+| [**AIDLC TestAgent**](https://www.npmjs.com/package/aidlc-testagent) | AI test agent for web, desktop, API & mobile — point it at a target, approve the plan, get a passing test suite · `npm install -g aidlc-testagent` |
 
-The architecture is **skills-based**: every agent stage is backed by an editable `.md` skill file. Add or swap agents by writing a new skill. The pipeline graph is fully configurable per project — not a fixed flow.
-
-Published on [**VS Code Marketplace**](https://marketplace.visualstudio.com/items?itemName=hueanmy.aidlc) and [**Open VSX**](https://open-vsx.org/extension/hueanmy/aidlc) · Adopted by external teams · 100% open source.
+Skills-based architecture: every agent stage is backed by an editable `.md` skill file. The pipeline graph is fully configurable per project — not a fixed flow.
 
 ---
 
@@ -46,30 +44,30 @@ Published on [**VS Code Marketplace**](https://marketplace.visualstudio.com/item
 
 | Project | What it does |
 |---|---|
-| [**aidlc-extension**](https://github.com/hueanmy/aidlc-extension) | AI-driven SDLC in VS Code — configurable multi-agent pipeline via Claude · `2,300+ installs` |
-| [**claude-token-monitor**](https://github.com/hueanmy/claude-token-monitor) | Real-time token burn rate, session limits & cost monitor for Claude Code sessions |
+| [**aidlc-extension**](https://github.com/hueanmy/aidlc-extension) | VS Code extension for the AIDLC Suite — AI-driven SDLC pipeline via Claude · `2,300+ installs` |
+| [**claude-token-monitor**](https://github.com/hueanmy/claude-token-monitor) | Real-time token burn rate, session limits & cost monitor for Claude Code |
 | [**zeroctx**](https://github.com/hueanmy/zeroctx) | Trim context to near-zero — strip noise from prompts so Claude only sees what matters |
 | [**ast-graph**](https://github.com/hueanmy/ast-graph) | AST-based code graph that lets agents navigate code by symbol instead of dumping whole files |
-| [**claude-roadmap**](https://github.com/hueanmy/claude-roadmap) | Hands-on 7-phase roadmap from Claude API basics to MCP & production agents · `16 stars` |
-| [**ai-shorts-generator**](https://github.com/hueanmy/ai-shorts-generator) | Data-driven tech video generator with ElevenLabs voice-over · `25 stars` |
+| [**claude-roadmap**](https://github.com/hueanmy/claude-roadmap) | Hands-on 7-phase roadmap from Claude API basics to MCP & production agents · `16 ★` |
+| [**ai-shorts-generator**](https://github.com/hueanmy/ai-shorts-generator) | Data-driven tech video generator with ElevenLabs voice-over · `25 ★` |
 | [**tech-radar**](https://github.com/hueanmy/tech-radar) | Personal tech radar — tools, languages & techniques I use or evaluate |
 
-→ ...and more at [**all my repos**](https://github.com/hueanmy?tab=repositories).
+→ Full list at [**github.com/hueanmy**](https://github.com/hueanmy?tab=repositories).
 
 ---
 
 ## Free Resources
 
-Everything below is free — written and maintained by me to share what I've learned building with Claude.
+Everything below is free — guides and courses I write to share what I learn building with Claude.
 
-| Resource | What you'll learn |
+| Resource | About |
 |---|---|
 | [**Claude Dev Roadmap**](https://hueanmy.github.io/claude-roadmap.html) | Zero to production with Claude — 7 phases, working examples |
 | [**Claude Code Hooks**](https://hueanmy.github.io/courses/claude-code-hooks/) | Automate workflows at Claude Code lifecycle checkpoints |
 | [**Prompt Caching**](https://hueanmy.github.io/courses/prompt-caching/) | 90% token savings and 85% latency reduction in practice |
 | [**Prompt Eval 101**](https://hueanmy.github.io/courses/prompt-eval-demo/) | Evaluate AI prompts in 30 seconds |
 
-More guides and tutorials at [**hueanmy.github.io**](https://hueanmy.github.io).
+More at [**hueanmy.github.io**](https://hueanmy.github.io).
 
 ---
 
@@ -80,7 +78,6 @@ More guides and tutorials at [**hueanmy.github.io**](https://hueanmy.github.io).
 ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 
 **Frontend & Desktop**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -91,6 +88,9 @@ More guides and tutorials at [**hueanmy.github.io**](https://hueanmy.github.io).
 
 **Mobile**
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
+**Systems**
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 **Tooling & Workflow**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
