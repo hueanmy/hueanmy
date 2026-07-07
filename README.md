@@ -31,8 +31,6 @@ I build and maintain the **[AIDLC Suite](https://github.com/orgs/aidlc-io/reposi
 
 ---
 
-<table><tr><td valign="top" width="50%">
-
 ## Stack
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat&logo=anthropic&logoColor=white)
@@ -50,12 +48,6 @@ I build and maintain the **[AIDLC Suite](https://github.com/orgs/aidlc-io/reposi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-</td><td valign="top" width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hueanmy&show_icons=true&hide_border=true&count_private=true&theme=default&hide=issues)
-
-</td></tr></table>
 
 <div align="center">
 
