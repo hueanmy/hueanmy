@@ -47,17 +47,6 @@ An ecosystem of AI-driven developer tools — **VS Code extension · CLI · term
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hueanmy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2b6cb0&icon_color=a259e6&text_color=555&bg_color=00000000)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hueanmy&layout=compact&hide_border=true&langs_count=8&title_color=2b6cb0&text_color=555&bg_color=00000000)
-
-</div>
-
----
-
 <div align="center">
 
 *Based in Hà Nội 🇻🇳 · Always shipping 🛠️*
