@@ -2,7 +2,7 @@
 
 # Meii · `@hueanmy`
 
-**Software Engineer · Dev Team Lead · Open Source**
+**Software Engineer · Open Source**
 
 Building tools that make developers faster — from mobile to cloud, with **Claude** at the core.
 
