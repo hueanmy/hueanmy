@@ -17,6 +17,12 @@ Building tools that make developers faster — from mobile to cloud, with **Clau
 
 ### 🚀 What I'm building
 
+<div align="center">
+
+<img src="./assets/terminal.svg" alt="zsh session — what I'm building" width="720">
+
+</div>
+
 I ship product across **mobile, desktop (Electron), and web frontend**, with a current focus on **AI-native developer tooling** and **AI-driven QA automation**.
 
 Most of my open-source work sits at the intersection of **Claude · developer productivity · workflow automation · AI QA** — day-to-day I move between mobile features, Electron UX, Angular / Vue frontends, and AI agent design, depending on what's needed to ship.
@@ -39,11 +45,29 @@ An ecosystem of AI-driven developer tools — **VS Code extension · CLI · term
 
 ### 🛠️ Tech stack
 
-<div align="center">
+**AI & automation**
 
-[![Tech stack terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1600&pause=600&color=3FB950&background=0D1117&multiline=true&repeat=false&vCenter=true&width=680&height=230&lines=hueanmy@dev:~%24+cat+tech-stack.md;;AI+%26+automation:+Claude,+Anthropic+SDK,+Playwright;Frontend+%26+desktop:+TypeScript,+Angular,+Vue,+Electron,+Swift;Backend+%26+tools:+Node.js,+Python,+Rust,+VS+Code,+Jira,+Figma;;hueanmy@dev:~%24+_)](https://hueanmy.github.io)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Anthropic SDK](https://img.shields.io/badge/Anthropic%20SDK-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-</div>
+**Frontend & desktop**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+**Backend, languages & tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
