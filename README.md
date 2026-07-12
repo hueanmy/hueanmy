@@ -6,10 +6,10 @@
 
 Building tools that make developers faster — from mobile to cloud, with **Claude** at the core.
 
-[![Website](https://img.shields.io/badge/Website-hueanmy.github.io-111111?style=flat&logo=github&logoColor=white)](https://hueanmy.github.io)
 [![YouTube](https://img.shields.io/badge/YouTube-studyingwithmeii-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@studyingwithmeii)
+[![Website](https://img.shields.io/badge/Website-hueanmy.github.io-111111?style=flat&logo=github&logoColor=white)](https://hueanmy.github.io)
 [![TikTok](https://img.shields.io/badge/TikTok-studyingwithmeii-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@studyingwithmeii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meii-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hueanmy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meii-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mailethi/)
 
 </div>
 
@@ -23,9 +23,7 @@ Building tools that make developers faster — from mobile to cloud, with **Clau
 
 </div>
 
-I ship product across **mobile, desktop (Electron), and web frontend**, with a current focus on **AI-native developer tooling** and **AI-driven QA automation**.
-
-Most of my open-source work sits at the intersection of **Claude · developer productivity · workflow automation · AI QA** — day-to-day I move between mobile features, Electron UX, Angular / Vue frontends, and AI agent design, depending on what's needed to ship.
+Day-to-day I bounce between mobile features, Electron UX, Angular / Vue frontends, and AI agent design — whatever it takes to ship.
 
 ---
 
