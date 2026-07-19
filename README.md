@@ -41,6 +41,18 @@ An ecosystem of AI-driven developer tools — **VS Code extension · CLI · term
 
 ---
 
+### 🔍 Spotlight — Annotron
+
+> **AI review-in-the-loop for agent artifacts** — a local, browser-based review editor for your AI agent's HTML output. Point-and-click **annotate** rendered elements, watch the agent's tool calls live, approve permissions, then send structured feedback straight back to **Claude Code** and auto-reload as it edits. A tight human-in-the-loop for agent-generated UIs — with **zero runtime dependencies**.
+
+[![npm](https://img.shields.io/npm/v/annotron?style=flat-square&label=npm&color=cb3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/annotron)
+[![GitHub](https://img.shields.io/badge/GitHub-hueanmy%2Fannotron-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hueanmy/annotron)
+[![License](https://img.shields.io/badge/license-MIT-black?style=flat-square)](https://github.com/hueanmy/annotron/blob/main/LICENSE)
+
+Annotate → send feedback → finalize → download. Install globally with `npm install -g annotron`, or grab the **VS Code** / **Open VSX** extension. → [github.com/hueanmy/annotron](https://github.com/hueanmy/annotron)
+
+---
+
 ### 🛠️ Tech stack
 
 **AI & automation**
